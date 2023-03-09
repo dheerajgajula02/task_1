@@ -1,6 +1,7 @@
 
 
 youtube explination about the project: https://youtu.be/NeZ_1uzHeCQ
+
 getting captions for images 
 
 The models are above 100MB So i uploaded them to google drive 
