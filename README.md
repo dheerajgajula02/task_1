@@ -1,4 +1,6 @@
-# task_1
+
+
+youtube explination about the project: https://youtu.be/NeZ_1uzHeCQ
 getting captions for images 
 
 The models are above 100MB So i uploaded them to google drive 
@@ -13,6 +15,6 @@ run the home.py file
 
 make sure the folders look like this
 
-youtube explination about the project: https://youtu.be/NeZ_1uzHeCQ
+
 
 
