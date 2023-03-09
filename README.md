@@ -7,7 +7,9 @@ models_1 link: https://drive.google.com/drive/folders/19IzSj-JLp4LQzS4JaNdPAQ3WT
 
 models_2 link : https://drive.google.com/drive/folders/1upZylnD15yY3_ry8jqqGQeDnXtlXaxDK?usp=sharing
 
-![image](https://user-images.githubusercontent.com/83493115/224168546-699884fd-d7ee-4fe3-9c06-46d112f2121f.png)
+![image](https://user-images.githubusercontent.com/83493115/224169783-fecfbc0a-b742-4bce-b311-5275ac6a74d2.png)
+
+run the home.py file 
 
 make sure the folders look like this
 
